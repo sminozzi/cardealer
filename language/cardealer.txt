@@ -1,0 +1,382 @@
+ Request Information
+
+
+ Your Name
+
+
+ Please type your name
+
+
+ Your Email
+
+
+ Please type your email
+
+
+ Your Message
+
+
+ Please type your message
+
+
+ Send
+
+
+ Cancel
+
+
+ Overview
+
+
+ Car Details
+
+
+ 
+No special characters here (\$\ \,\ \.\), the plugin will auto format 
+the number.
+
+
+ Model
+
+
+ Mark to show up at Featured Widget.
+
+
+ The year of the model. Only numbers, no point, no comma.
+
+
+ Engine HP. Only numbers, no point, no comma.
+
+
+ Engine.
+
+
+ The amount of miles on this car . Only numbers, no point, no comma.
+
+
+ Body Type.
+
+
+ The amount of 
+
+
+ Body Color
+
+
+ Only numbers. No point, no comma.
+
+
+ Passenger Capacity. Only numbers.
+
+
+ What kind of Transmission is this
+
+
+ Fuel Type.
+
+
+ Color of the Interior
+
+
+ Interior Material
+
+
+ Specs
+
+
+ Features
+
+
+ Add any Feature Field (Settings => Field Features)
+
+
+ Parent makes
+
+
+ Parent makes:
+
+
+ Edit makes
+
+
+ Update makes
+
+
+ Add New makes
+
+
+ New makes
+
+
+ Separate makes with commas
+
+
+ Add or Remove makes
+
+
+ Choose from the most used makesrs
+
+
+ Parent locations
+
+
+ Parent locations:
+
+
+ Edit locations
+
+
+ Update locations
+
+
+ Add New locations
+
+
+ New locations
+
+
+ Separate locations with commas
+
+
+ Add or Remove locations
+
+
+ Choose from the most used locationsrs
+
+
+ Featured Image
+
+
+ Call For Price
+
+
+ Search
+
+
+ Car Type
+
+
+ Any
+
+
+ Wagon
+
+ Luxury Car
+
+
+ Sports Car
+
+
+ Sport Utility Vehicle
+
+
+ Van
+
+
+ Coupe
+
+
+ Sedan
+
+
+ Price
+
+
+ Year
+
+
+ New/Used
+
+
+ New
+
+
+ Used
+
+
+ Damaged
+
+
+ Make
+
+
+ Location
+
+
+ Options
+
+
+ Engine
+
+
+ Body Type
+
+
+ Transmission
+
+
+ Fuel Type
+
+
+ Fuel Capacity
+
+
+ Lenght
+
+
+ Passenger Capacity
+
+
+ Interior Color
+
+
+ Call for Price
+
+
+ Cond
+
+
+ Back
+
+
+ Onward
+
+
+ Not Found !
+
+
+ A list of Recent cars
+
+
+ New Arrivals
+
+
+ A list of Featured cars
+
+
+ Featured cars
+
+
+ Search cars
+
+
+ Title
+
+
+ 
+ Follow this steps
+
+
+  Go to car  Settings tab and choose your currency, metric system etc...
+
+
+ Go to Field Features and add some fields. 
+
+
+ For example: wifi, gps, alarm and so on...
+
+
+ Click Update to Save
+
+
+ Go to Makes and add some makers. 
+
+
+ For example: Ford, Fiat, Volkswagen...
+
+
+Go to Locations and add some, if you have more than one. This is Optional.
+
+
+Go to your Pages and chose one (or more) page where you want show the cars. 
+
+
+ Paste this shortcode there
+
+
+ Go to cars for Sale and Choose Add New
+
+
+ Fill Out all info
+
+
+ Add one Featured Image
+
+
+ Load images 
+
+
+Just create one wordpress gallery. Our plugin will create automatically one 
+nice slider gallery.\n
+For details how to create a wordpress gallery, check the wordpress site.
+
+
+ Click Publish to Save.
+
+
+ We have 3 dedicated Widgets
+
+
+   Recent cars
+
+
+ cars Search
+
+
+ To install, just go to 
+
+
+ and install them
+
+
+ That's all. I hope you enjoy it 
+
+
+ Choose your currency, metric system and so on.
+
+
+ Currency
+
+
+ Miles - Km
+
+
+ Miles
+
+
+ Kms
+
+
+ Hours
+
+
+ Liters - Gallons
+
+
+ Liters
+
+
+ Gallons
+
+
+ How many cars would you like to display per page?
+
+
+ Replace the Wordpress Gallery with Flexslider Gallery
+
+
+ 
+Here you can manage the car features/equipments fields to your car form.
+
+
+ Just add one or more field names - one for each line -
+
+
+ For example: GPS, DVD, and so on... 
+
+
+ Don't use special characters.
+
+
+ Add this fields to Car Form. Only one field each line:
+

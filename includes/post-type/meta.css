@@ -1,0 +1,98 @@
+	.remove, .add {
+		float:left;
+		font-family: "arial", sans-serif;
+		font-size:100%;
+		color:#FFF;
+		border-radius:2px;
+		cursor:pointer;
+		padding:3px;
+		margin-right: 3px;
+		}
+	.roomArea {
+		clear:both;
+		width:100%;	
+	}
+	.clear {
+	clear:both;
+	width:100%;
+	color:#333;
+	}
+	.clearRoom .boxes {
+			background-color:transparent;
+			width:30%;
+			border:none;
+			margin:0px;
+		} 
+	.boxes textarea {
+		background: none repeat scroll 0 0 #EBEAED ;
+		border: 1px solid #EBEAED EBEAED ;
+		border-radius: 5px 5px 5px 5px;
+		color: #555555;
+		font-size: 14px;
+		overflow: hidden;
+		padding: 5px;
+		}
+    input[type=checkbox], input[type=radio] {
+        height: 20px;
+        width: 20px;
+    }    
+	 .boxes input {
+		background: none repeat scroll 0 0 #EBEAED ;
+		border: 1px solid #EBEAED ;
+		border-radius: 5px 5px 5px 5px;
+		color: #555555;
+		font-size: 16px;
+		overflow: hidden;
+		padding: 5px;
+        max-width: 100px;
+		}
+	.clearRoom {
+		clear:both;
+		width:100%;
+		color:#333;
+		background-color:#EEEEEE;
+		height:95px;
+		border-radius:6px;
+		border:1px solid #EBEAED ;
+		margin-bottom:5px;
+	}
+	.box-label {
+		font-family: "Arial", sans-serif;
+		font-size:18px;
+		margin-bottom:10px;
+	}
+	.boxes {
+		/* float:left; */
+        width: 90%;
+		height:100px;
+		padding:10px;
+		margin:13px;
+		border-radius:5px;
+		font-family: "arial", sans-serif;
+        border: 1px solid #d4d4d4;
+ 		}
+	.tag-click-ar-flooring {
+    cursor: pointer;
+    float: left;
+    margin-right: 10px;
+    padding: 2px;
+	}	
+	.tag-click-ar-extFinish {
+    cursor: pointer;
+    float: left;
+    margin-right: 10px;
+    padding: 2px;
+	}	
+	select {
+	   background: transparent;
+	   width: 170px;
+	   padding: 5px !important;
+	   font-size: 14px;
+	   border: 1px solid #EBEAED ;
+	   height: 29px !important;
+	   overflow: hidden;
+	   background-color: #EBEAED ;
+   	   border: 1px solid #EBEAED ;
+	   color: #555555;
+	   border-radius: 5px 5px 5px 5px;
+	}

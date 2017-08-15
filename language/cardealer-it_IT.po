@@ -1,0 +1,800 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cardealer\n"
+"POT-Creation-Date: 2017-07-14 18:42-0000\n"
+"PO-Revision-Date: 2017-07-14 18:43-0000\n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: Bill Minozzi <sergiominozzi@gmail.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: f:/wordpress/cardealer\n"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/car_contact_form.php:26
+msgid "Request Information"
+msgstr "Richiesta informazioni"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/car_contact_form.php:32
+msgid "Your Name"
+msgstr "Nome"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/car_contact_form.php:35
+msgid "Please type your name"
+msgstr "Inserire il vostro nome"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/car_contact_form.php:39
+msgid "Your Email"
+msgstr "e-mail"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/car_contact_form.php:42
+msgid "Please type your email"
+msgstr "Inserire la vostra e-mail"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/car_contact_form.php:47
+msgid "Your Message"
+msgstr "Messaggio"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/car_contact_form.php:49
+msgid "Please type your message"
+msgstr "Inserire il Vostro messaggio"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/car_contact_form.php:60
+msgid "Send"
+msgstr "Invia"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/car_contact_form.php:61
+msgid "Cancel"
+msgstr "Annulla"
+
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:24
+msgid "Overview"
+msgstr "Panoramica"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:9
+msgid "Car Details"
+msgstr "Caratteristiche dell'auto"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:15
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr ""
+"Nessun carattere speciale (\\ $ \\ \\, \\ \\. \\), Il plugin creerà il "
+"numero in automatico."
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:22
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:23
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:38
+msgid "Model"
+msgstr "Modello"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:30
+msgid "Mark to show up at Featured Widget."
+msgstr "Segna per visualizzare in alto "
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:36
+msgid "The year of the model. Only numbers, no point, no comma."
+msgstr "Anno immatricolazione. Solo numeri, no punti, no virgola."
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:43
+msgid "Engine HP. Only numbers, no point, no comma."
+msgstr "Cavalli Motore (CV).  Solo numeri, no punti, no virgola."
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:49
+msgid "Engine."
+msgstr "Motore."
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:56
+msgid "The amount of miles on this car . Only numbers, no point, no comma."
+msgstr "KM percorsi. Solo numeri, no punti, no virgola."
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:60
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:241
+msgid "New"
+msgstr "Nuovo"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:61
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:243
+msgid "Used"
+msgstr "Usato"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:62
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:245
+msgid "Damaged"
+msgstr "Danneggiato"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:68
+msgid "Car Body Type."
+msgstr "Categoria."
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:75
+msgid "The amount of "
+msgstr "iL totale de"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:82
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:94
+msgid "Body Color"
+msgstr "Colore"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:82
+msgid "Only numbers. No point, no comma."
+msgstr "Solo numeri, no punti, no virgola."
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:89
+msgid "Passenger Capacity. Only numbers."
+msgstr "Posti a sedere. Solo numeri."
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:96
+msgid "What kind of Transmission is this"
+msgstr "Tipo di Cambio"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:100
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:267
+msgid "Automatic"
+msgstr "Automatico "
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:101
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:269
+msgid "Manual"
+msgstr "Manuale"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:102
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:271
+msgid "Tiptronic"
+msgstr "Sequenziale"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:106
+msgid "Fuel Type."
+msgstr "Carburante."
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:110
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:293
+msgid "Diesel"
+msgstr "Gasolio"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:111
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:295
+msgid "Gasoline"
+msgstr "Benzina"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:112
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:297
+msgid "Hybrid"
+msgstr "Ibrida"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:113
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:299
+msgid "Electric"
+msgstr "Elettrica"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:114
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:301
+msgid "Biodiesel"
+msgstr "Biodiesel"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:115
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:303
+msgid "CNG"
+msgstr "GPL"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:116
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:305
+msgid "Ethanol"
+msgstr "Metano"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:117
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:307
+msgid "Other"
+msgstr "Altre"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:121
+msgid "Color of the Interior"
+msgstr "Colore interni"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:128
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:122
+msgid "Interior Material"
+msgstr "Materiale Interni"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:154
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:158
+msgid "Specs"
+msgstr "Specifiche"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:155
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:251
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:132
+msgid "Features"
+msgstr "Caratteristiche"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:241
+msgid "Add any Feature Field (Settings => Field Features)"
+msgstr "Aggiungi le caratteristiche (Impostazioni => Caratteristiche)"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:54
+msgid "Parent makes"
+msgstr "Marca"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:55
+msgid "Parent makes:"
+msgstr "Parent marca"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:56
+msgid "Edit makes"
+msgstr "Modifica Marche"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:57
+msgid "Update makes"
+msgstr "Aggiorna Marche"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:58
+msgid "Add New makes"
+msgstr "Inserisci nuove marche"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:59
+msgid "New makes"
+msgstr "Nuove Marche"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:60
+msgid "Separate makes with commas"
+msgstr "Separa le Marche con le virgole"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:61
+msgid "Add or Remove makes"
+msgstr "Aggiungi o rimuovi Marche"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:62
+#, fuzzy
+msgid "Choose from the most used makers"
+msgstr "Scegli tra le marche più usate"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:83
+msgid "Parent locations"
+msgstr "Posizione sede"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:84
+msgid "Parent locations:"
+msgstr "Posizione sede:"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:85
+msgid "Edit locations"
+msgstr "Modifica posizione"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:86
+msgid "Update locations"
+msgstr "Aggiorna posizione"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:87
+msgid "Add New locations"
+msgstr "Aggiungi una nuova posizione"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:88
+msgid "New locations"
+msgstr "Nuove posizione"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:89
+msgid "Separate locations with commas"
+msgstr "Separare le posizioni con le virgole"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:90
+msgid "Add or Remove locations"
+msgstr "Aggiungi o rimuovi posizioni"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:91
+#, fuzzy
+msgid "Choose from the most used locations"
+msgstr "Scegli tra le posizioni più utilizzate"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:148
+msgid "Featured Image"
+msgstr "Immagine in evidenza (immagine in primo piano)"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:180
+msgid "Call For Price"
+msgstr "Chiamaci per il prezzo"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:18
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:393
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:272
+msgid "Search"
+msgstr "Ricerca"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:86
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:16
+msgid "Make"
+msgstr "Marca"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:93
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:121
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:145
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:169
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:206
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:239
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:265
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:291
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:331
+msgid "Any"
+msgstr "Tutte"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:110
+msgid "Car Type"
+msgstr "Categoria"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:122
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:123
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:124
+msgid "Wagon"
+msgstr "Monovolume"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:125
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:126
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:127
+msgid "Luxury Car"
+msgstr "Auto di lusso"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:129
+msgid "Sports Car"
+msgstr "Auto sportiva"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:131
+msgid "Sport Utility Vehicle"
+msgstr "Utilitaria"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:134
+msgid "Van"
+msgstr "Furgone"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:136
+msgid "Coupe"
+msgstr "Coupe"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:138
+msgid "Sedan"
+msgstr "Berlina"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:162
+msgid "Price"
+msgstr "Prezzo"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:200
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:200
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:225
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom1.php:172
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:186
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom3.php:155
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:99
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:205
+msgid "Year"
+msgstr "Anno"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:233
+msgid "New/Used"
+msgstr "Nuovo/Usato"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:259
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:98
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:229
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom1.php:174
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:189
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom3.php:157
+msgid "Transmission"
+msgstr "Cambio"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:285
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:228
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom1.php:173
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:188
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom3.php:156
+msgid "Fuel"
+msgstr "Carburante"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:323
+msgid "Order By"
+msgstr "In Ordine di"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:335
+msgid "Year newest first"
+msgstr "Piu Nuovi Prima"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:337
+msgid "Year oldest first"
+msgstr "Piu Vecchi Prima"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:341
+msgid "Price higher first"
+msgstr "Prima Piu Custosi"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:343
+msgid "Price lower first"
+msgstr "Prima Meno Costosi"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:347
+msgid "Mileage higher first"
+msgstr "Con Piu Km"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:349
+msgid "Mileage lower first"
+msgstr "Con Meno Km"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:363
+#, fuzzy
+msgid "Price Range"
+msgstr "Prezzo"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:56
+msgid "Location"
+msgstr "Posizione"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:77
+msgid "Options"
+msgstr "Opzioni"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:86
+msgid "Engine"
+msgstr "Motore"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:90
+msgid "Body Type"
+msgstr "Categoria"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:102
+msgid "Fuel Type"
+msgstr "Tipo di carburante"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:106
+msgid "Fuel Capacity"
+msgstr "Capacità serbatoio"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:110
+msgid "Lenght"
+msgstr "Lunghezza"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:114
+msgid "Passenger Capacity"
+msgstr "Posti a sedere"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:118
+msgid "Interior Color"
+msgstr "Colore interni"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:192
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:219
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom1.php:168
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:183
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom3.php:151
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:96
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:202
+msgid "Call for Price"
+msgstr "Chiama per il prezzo"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:202
+msgid "Cond"
+msgstr "Condizioni"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:224
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom1.php:171
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:185
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom3.php:154
+msgid "HP"
+msgstr "CV"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:230
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom1.php:176
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:190
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom3.php:159
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:206
+msgid "Miles"
+msgstr "Miglia"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:253
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom1.php:189
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:211
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom3.php:169
+msgid "Back"
+msgstr "Indietro"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:254
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom1.php:190
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:212
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom3.php:170
+msgid "Onward"
+msgstr "Avanti"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:265
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom1.php:200
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:222
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom3.php:180
+msgid "Not Found !"
+msgstr "Non trovato!"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-single.php:30
+msgid "Contact Us"
+msgstr "Contattaci"
+
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:21
+msgid "A list of Recent cars"
+msgstr "Elenco delle auto recenti"
+
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:57
+msgid "New Arrivals"
+msgstr "Nuovi arrivi"
+
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:132
+msgid "A list of Featured cars"
+msgstr "Elenco di auto in evidenza"
+
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:163
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:117
+msgid "Featured cars"
+msgstr "Auto in evidenza"
+
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:241
+msgid "Search cars"
+msgstr "Cerca Auto "
+
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:257
+msgid "Title"
+msgstr "Titolo"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:15
+msgid ""
+"Thanks for install car  Dealer Plugin. The easiest way to manage, list and "
+"sell your cars online."
+msgstr ""
+"Grazie di istallare Car Dealer Plugin. La forma più facile di vendere delle "
+"macchine on line."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:18
+msgid "Follow this steps"
+msgstr "Seguire questi passaggi"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:22
+msgid " Go to car  Settings tab and choose your currency, metric system etc..."
+msgstr ""
+"Andare nella scheda \"impostazioni auto\" per scegliere la valuta, sistema "
+"metrico, ecc.."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:30
+msgid "Go to Field Features and add some fields. "
+msgstr ""
+"Andare nella scheda \"archivio caratteristiche\" e aggiungere alcuni campi"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:32
+msgid "For example: wifi, gps, alarm and so on..."
+msgstr "Per esempio: WiFi, GPS, Allarme e così via..."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:34
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:70
+msgid "Click Update to Save"
+msgstr "Clicca su Aggiorna per salvare"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:43
+msgid "Go to Makes and add some makers. "
+msgstr "Andare in \"marche\" e aggiungi alcune case costruttrici."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:45
+msgid "For example: Ford, Fiat, Volkswagen..."
+msgstr "Per esempio: Ford, Fiat, Volkswagen..."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:54
+msgid ""
+"Go to Locations and add some, if you have more than one. This is Optional."
+msgstr ""
+"Andare in \"Posizione\" e aggiungerne alcune, se ne hai più di uno. questo è "
+"facoltativo."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:64
+msgid ""
+"Go to your Pages and chose one (or more) page where you want show the cars. "
+msgstr ""
+"Vai alle tue pagine e scegli una pagina (o più) in cui vuoi mostrare le auto."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:67
+msgid "Paste this shortcode there"
+msgstr "Incollare qui il codice shortcode"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:79
+msgid "Go to cars for Sale and Choose Add New"
+msgstr "Andare in \"auto in vendita\" e scegliere Aggiungi nuovo"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:85
+msgid "Fill Out all info"
+msgstr "Compila tutte le informazioni"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:88
+msgid "Add one Featured Image"
+msgstr "Aggiungi un'immagine in primo piano"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:94
+msgid "Load images "
+msgstr "Carica immagini"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:97
+msgid ""
+"Just create one wordpress gallery. Our plugin will create automatically one "
+"nice slider gallery.\n"
+"For details how to create a wordpress gallery, check the wordpress site."
+msgstr ""
+"Basta creare una galleria wordpress. Il nostro plugin creerà automaticamente "
+"una Bella galleria di slider.\n"
+" Per ulteriori dettagli su come creare una galleria di wordpress, controlla "
+"il sito wordpress."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:100
+msgid ""
+"Look our demo in our site how to upload and crop images (less than 2 "
+"minutes)."
+msgstr ""
+"Guarda la nostra demo in nostro site come upload ed crop immagine (meno di 2 "
+"minuti)."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:103
+msgid "Click Publish to Save."
+msgstr "Clicca su Publica per salvare"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:110
+msgid "We have 3 dedicated Widgets"
+msgstr "Abbiamo 3 Widget dedicati"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:114
+msgid "  Recent cars"
+msgstr "Auto recenti"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:120
+msgid "cars Search"
+msgstr "Cerca auto"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:124
+msgid "To install, just go to "
+msgstr "Per installare, vai a"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:128
+msgid "and install them"
+msgstr "e installarli"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:134
+msgid "Permalinks"
+msgstr "Permalinks"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:137
+msgid "Set Permalinks to Post Name "
+msgstr "Segnala Permalinks to Post Name "
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:156
+msgid "OnLine Guide"
+msgstr "Guida On Line"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:158
+msgid "Faq Page"
+msgstr "Domande Frequente"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:160
+msgid "Support Page"
+msgstr "Pagina de Supporto"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:169
+msgid "That's all. I hope you enjoy it "
+msgstr "È tutto. Spero che vi piaccia"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:182
+msgid "Choose your currency, metric system and so on."
+msgstr "Scegliere la valuta, il sistema metrico e così via."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:189
+msgid "Currency"
+msgstr "Moneta"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:204
+msgid "Miles - Km"
+msgstr "Miglia - Km"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:207
+msgid "Kms"
+msgstr "Chilometri"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:208
+msgid "Hours"
+msgstr "Ore"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:216
+msgid "Liters - Gallons"
+msgstr "Litri - Galloni"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:218
+msgid "Liters"
+msgstr "Litri"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:219
+msgid "Gallons"
+msgstr "Galloni"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:238
+msgid "How many cars would you like to display per page?"
+msgstr "Quante auto vuoi visualizzare per pagina?"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:279
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr "Sostituisci la galleria di Wordpress con la galleria Flexslider"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:291
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual car page."
+msgstr ""
+"Riempi la tua eMail, cosi riceverai eMail dal modulo di conttato che si trov "
+"al piede della pagina di macchine."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:298
+msgid "In Show Room Page, use Gallery or List View Template"
+msgstr ""
+"Nella pagina show room, scegliere fra Gallery oppure List View Template"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:316
+msgid ""
+"Here you can manage the car features/equipments fields to your car form."
+msgstr ""
+"Qui è possibile gestire i campi di caratteristiche / attrezzature dell'auto "
+"nel modulo auto."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:318
+msgid "Just add one or more field names - one for each line -"
+msgstr "Basta aggiungere uno o più nomi nel campo - uno per ogni riga -"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:321
+msgid "For example: GPS, DVD, and so on... "
+msgstr "Per esempio, GPS, DVD, e così via..."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:323
+msgid "Don't use special characters."
+msgstr "Non utilizzare caratteri speciali."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:332
+msgid "Add this fields to Car Form. Only one field each line:"
+msgstr "Aggiungere questi campi nel modulo auto. Un solo campo per ogni riga:"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:342
+msgid ""
+"Customize your Search Options. Choose the fields to show on the front end "
+"search bar."
+msgstr "Customiza la tua barra di  Ricerca. Scegli i campi da aggiungere."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:349
+msgid "Show the Make control"
+msgstr "Aggiungi Select Marca "
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:360
+msgid "Show the Fuel type control"
+msgstr "Aggiungi Select Carburante"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:371
+msgid "Show the Type Body control"
+msgstr "Aggiungi Select Categoria"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:382
+msgid "Show the Year control"
+msgstr "Aggiungi Select Anno"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:393
+msgid "Show the Condition (new/used) control"
+msgstr "Aggiungi Select Condizione"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:404
+msgid "Show the Transmission control"
+msgstr "Aggiungi Select Cambio"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:414
+msgid "Show the Price slider"
+msgstr "Aggiungi Prezzi Slider"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:424
+#, fuzzy
+msgid "Show the Order By Control"
+msgstr "Aggiungi Select Categoria"
+
+#~ msgid "Order the Car Posts"
+#~ msgstr "Ordina i post di macchine"
